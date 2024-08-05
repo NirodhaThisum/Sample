@@ -7,7 +7,9 @@ const Home = () => {
         <form>
             <label for="name">Enter your name</label>
             <input type="text" placeholder='Enter yor name' id="name"></input>
+            <input type="submit">submit</input>
         </form>
+        
     </> );
 }
  
